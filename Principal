@@ -1,0 +1,9 @@
+package Examen;
+
+public class Principal {
+    public static void main(String[] args) {
+        Listas Obj= new Listas();
+        Obj.princ();
+    }
+    
+}
